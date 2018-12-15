@@ -1,3 +1,3 @@
-#Starting to practice git
+# Starting to practice git
 
-####This is just a test
+#### This is just a test
